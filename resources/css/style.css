@@ -7,7 +7,9 @@ html {
 }
 
 
-
+body {
+  margin: auto 0px;
+}
 
 
 .main-content {
@@ -58,6 +60,7 @@ header {
   background-color: white;
   z-index: 5;
   top: 0px;
+
 }
 
 header .content {
